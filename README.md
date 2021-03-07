@@ -5,6 +5,7 @@
 ## :camera: Demonstração
 
 <div align="center" >
+  <img src="./git_img/img2.PNG"><br/><br/>
   <img src="./git_img/img1.PNG"><br/><br/>
 </div><br/>
 
@@ -30,6 +31,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - ✔️ TypeScript
 
 - ✔️ React Hooks
+
+- ✔️ Grid Layout
 
 - ✔️ Routes
 
