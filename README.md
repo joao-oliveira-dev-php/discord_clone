@@ -1,46 +1,52 @@
-# Getting Started with Create React App
+<h1 align="center">:headphones: Discord Clone :headphones:</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">O Clone do discord foi desenvolvimento a partir de um video explicativo da rocketseat, com o objetivo de praticar minhas habilidades em React e como complemente tive a oportunidade de conhecer o TypeScrip.</p>
 
-## Available Scripts
+## :camera: Demonstração
 
-In the project directory, you can run:
+<div align="center" >
+  <img src=""><br/><br/>
+  <img src=""><br/><br/>
+  <img src=""><br/><br/>
+  <img src=""><br/><br/>
+</div><br/>
 
-### `npm start`
+## :tv: Video Demonstrativo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<a href="">
+  <img src="https://img.shields.io/badge/Assista_o_video_demonstrativo_do_sistema-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 🚀 Tecnologias
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- ✔️ ReactJS
 
-### `npm run eject`
+- ✔️ Styled Components
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- ✔️ TypeScript
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- ✔️ React Hooks
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- ✔️ Routes
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## ⚙ Configuração
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1- Para instalar as dependências:
+> npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2- Para iniciar a aplicação:
+> npm start
+
+
+
+Feito com 💜 por JOÃO OLIVEIRA 👋 [Veja meu Linkedin](https://www.linkedin.com/in/joao-php/)
+<br>
+
