@@ -1,13 +1,10 @@
 <h1 align="center">:headphones: Discord Clone :headphones:</h1>
 
-<p align="center">O Clone do discord foi desenvolvimento a partir de um video explicativo da rocketseat, com o objetivo de praticar minhas habilidades em React e como complemente tive a oportunidade de conhecer o TypeScrip.</p>
+<p align="center">O Clone do discord foi desenvolvimento a partir de um video explicativo da rocketseat, com o objetivo de praticar minhas habilidades em React e como complemente tive a oportunidade de conhecer o TypeScript.</p>
 
 ## :camera: Demonstração
 
 <div align="center" >
-  <img src=""><br/><br/>
-  <img src=""><br/><br/>
-  <img src=""><br/><br/>
   <img src=""><br/><br/>
 </div><br/>
 
