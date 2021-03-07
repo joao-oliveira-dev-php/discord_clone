@@ -10,7 +10,7 @@
 
 ## :tv: Video Demonstrativo
 
-<a href="./git_img/img1.png">
+<a href="./git_img/img1.PNG">
   <img src="https://img.shields.io/badge/Assista_o_video_demonstrativo_do_sistema-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
